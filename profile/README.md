@@ -1,23 +1,27 @@
-# AxmeAI
+# AXME
 
-**Durable execution infrastructure for long-running intents.**
+**Durable execution where agents, services, and humans coordinate as equals.**
 
-AXME is a coordination layer for async operations that need delivery guarantees, retry logic, human-in-the-loop approvals, and observable lifecycle — across services, agents, and time.
+Submit once, track lifecycle, complete later. Replace polling, webhook glue, and Temporal complexity with one protocol for all your workflows — AI-driven or not.
 
-> **Alpha** · [Get access](https://cloud.axme.ai/alpha) · [hello@axme.ai](mailto:hello@axme.ai)
+> **Alpha** · [Quick Start](https://cloud.axme.ai/alpha/cli) · [cloud.axme.ai](https://cloud.axme.ai) · [hello@axme.ai](mailto:hello@axme.ai)
 
 ---
 
 ### Start here → [axme](https://github.com/AxmeAI/axme)
 
-Full repository map, quickstart, and concept overview.
+Quickstart, SDK examples, ScenarioBundle, MCP integration, and the full repository map.
 
 ---
 
 ### SDKs
 
-[Python](https://github.com/AxmeAI/axme-sdk-python) · [TypeScript](https://github.com/AxmeAI/axme-sdk-typescript) · [Go](https://github.com/AxmeAI/axme-sdk-go) · [Java](https://github.com/AxmeAI/axme-sdk-java) · [.NET](https://github.com/AxmeAI/axme-sdk-dotnet)
+[Python](https://github.com/AxmeAI/axme-sdk-python) · [TypeScript](https://github.com/AxmeAI/axme-sdk-typescript) · [Go](https://github.com/AxmeAI/axme-sdk-go) · [Java](https://github.com/AxmeAI/axme-sdk-java) · [.NET](https://github.com/AxmeAI/axme-sdk-dotnet) · [CLI](https://github.com/AxmeAI/axme-cli)
 
 ### Platform
 
-[axme-docs](https://github.com/AxmeAI/axme-docs) · [axme-spec](https://github.com/AxmeAI/axme-spec) · [axme-cli](https://github.com/AxmeAI/axme-cli) · [axme-examples](https://github.com/AxmeAI/axme-examples) · [axme-conformance](https://github.com/AxmeAI/axme-conformance)
+[Docs](https://github.com/AxmeAI/axme-docs) · [Examples](https://github.com/AxmeAI/axme-examples) · [MCP Server](https://mcp.cloud.axme.ai)
+
+### Protocol (AXP)
+
+[axp-spec](https://github.com/AxmeAI/axp-spec) · [axme-conformance](https://github.com/AxmeAI/axme-conformance)
