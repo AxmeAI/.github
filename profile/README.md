@@ -1,6 +1,6 @@
 # AXME
 
-**Durable execution where agents, services, and humans coordinate as equals.**
+**Durable execution for AI agents and services. Submit once. Get result later.**
 
 Submit once, track lifecycle, complete later. Replace polling, webhook glue, and Temporal complexity with one protocol for all your workflows — AI-driven or not.
 
