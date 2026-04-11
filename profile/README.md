@@ -50,19 +50,3 @@ MCP plugin for Claude Code that gives your coding agent memory, architectural de
 One-command install, docs, changelog, CLI and plugin distribution.
 
 **Site**: [code.axme.ai](https://code.axme.ai)
-
----
-
-## Platform resources
-
-[Docs](https://github.com/AxmeAI/axme-docs) ·
-[Examples](https://github.com/AxmeAI/axme-examples) ·
-[MCP Server](https://mcp.cloud.axme.ai)
-
----
-
-### Alpha, and honest about it
-
-AXME is in active alpha. Expect weekly changes, direct access to the team, and an honest changelog. No production SLAs yet. Free during alpha.
-
-[contact@axme.ai](mailto:contact@axme.ai)
