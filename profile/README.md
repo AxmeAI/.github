@@ -4,7 +4,7 @@
 
 Submit once, track lifecycle, complete later. Replace polling, webhook glue, and Temporal complexity with one protocol for all your workflows — AI-driven or not.
 
-> **Alpha** · [Quick Start](https://cloud.axme.ai/alpha/cli) · [cloud.axme.ai](https://cloud.axme.ai) · [hello@axme.ai](mailto:hello@axme.ai)
+> **Alpha** · [Quick Start](https://cloud.axme.ai/alpha/cli) · [cloud.axme.ai](https://cloud.axme.ai) · [contact@axme.ai](mailto:contact@axme.ai)
 
 ---
 
